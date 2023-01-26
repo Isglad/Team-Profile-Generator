@@ -1,2 +1,5 @@
 .DS_STORE/
 node_modules/
+__tests__/
+.vscode
+package-lock.json

@@ -15,7 +15,7 @@
 
 A command-line application that dynamically generates a webpage that displays your team's basic info. This allows you to have quick access to their emails and GitHub profiles.
 
-[Link to the Team Profile Generator App](https://drive.google.com/file/d/1lsCrEwE7SYQR6PpXNSh355obdPWVTw_O/view)
+[Link to the Team Profile Generator App](https://drive.google.com/file/d/1o8DW08dcgdXiYQkyMigLCLOJ2nNedW4v/view)
 
 
 ## Table of Contents
